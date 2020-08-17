@@ -1,0 +1,20 @@
+SGD Update for W
+预备知识
+  sigmoid函数
+  逻辑回归
+  Bayes公式
+  Huffman编码
+  
+背景知识
+  统计语言模型
+  n-gram模型
+  神经概率语言模型
+  词向量的理解
+  
+  
+基于Hierarchical Softmax的模型
+  CBOW模型
+    网络结构
+    梯度计算
+  Skip-gram模型
+    
